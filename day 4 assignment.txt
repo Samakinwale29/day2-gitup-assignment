@@ -1,0 +1,33 @@
+1. Timely delivery is crucial in software project management for Client Satisfaction. Delivering a project on time helps maintain trust and satisfaction with clients or stakeholders. Delays can result in frustration, loss of business, and a damaged reputation.
+
+2. Effective Cost Control Contributes to Success by ensuring Financial Health. Proper cost control ensures that the project remains within budget, preventing financial strain on the organization or client. Staying on budget also increases the chances of profitability.
+
+3. Waterfall: Like a linear flow—one step finishes before the next starts.
+Agile: More flexible, focusing on small, rapid cycles (called sprints).
+
+4. Agile is More Beneficial with Projects with Uncertain or Evolving Requirements. For example: Software Development Projects:
+
+Waterfall is More Beneficial when Projects with Well-Defined Requirement. for example: Building Infrastructure
+5. Methods for Ensuring Quality Assurance are:
+Test-Driven Development (TDD)
+Automated Testing
+Manual Testing
+
+Why It's Important to Maintain High Standards are
+Customer Satisfaction
+Reduced cost
+reputation management
+
+6. How Defining the Project Scope Contributes to Successful Project Planning
+is that it defines the boundaries of the project, outlining what is included and excluded in the project deliverables, activities, and resources.
+
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of the project's total scope into smaller, more manageable components. It breaks down the project into smaller work packages that can be easily planned, executed, and controlled.
+
+7. Benefits of Developing a Detailed Project Schedule are
+Clear Roadmap and Timeline, Better Resource Allocation, Realistic Time Estimates etc.
+
+8. Efficiency and Time Management, Poor User Experience, Communication Breakdown.
+
+9. how clearly defining the problem contributes to a more effective software solution are Focuses Development Efforts, Aligns the Team with a Common Goal, Ensures Relevant Features and Functionality etc
+
+10. Our logistics software is designed to streamline and optimize your supply chain operations. It simplifies the way goods are tracked, managed, and delivered, ensuring faster, more efficient logistics processes. Whether you're overseeing inventory, managing shipments, or coordinating with multiple partners, our solution helps you make smarter decisions with less effort.
